@@ -1,0 +1,19 @@
+{
+  "name": "moonlaw_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexanderlguarddev/moonlaw_server.git"
+  },
+  "author": "Alexander Guardado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexanderlguarddev/moonlaw_server/issues"
+  },
+  "homepage": "https://github.com/alexanderlguarddev/moonlaw_server#readme"
+}
